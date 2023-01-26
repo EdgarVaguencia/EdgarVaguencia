@@ -6,7 +6,7 @@
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarvaguencia&layout=compact&theme=vue-dark)
 
 #### Wakatime
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=EdgarKmarita&theme=vue-dark&layout=compact)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=EdgarVaguencia&theme=vue-dark&layout=compact)
 
 <!--
 **EdgarVaguencia/EdgarVaguencia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
